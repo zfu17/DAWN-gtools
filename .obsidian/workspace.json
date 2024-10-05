@@ -146,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e305202eed536543",
+  "active": "22859855e87e1c05",
   "lastOpenFiles": [
+    "HiC-Pro on SLURM/scripts/sra-geo.sh",
+    "HiC-Pro on SLURM/scripts/run-hicpro.sh",
+    "HiC-Pro on SLURM/scripts/getSRR.sh",
+    "HiC-Pro on SLURM/scripts/config-hicpro_ecoli.txt",
+    "HiC-Pro on SLURM/scripts",
     "README.md",
     "HiC-Pro on SLURM/README.md",
     "Untitled.md"
