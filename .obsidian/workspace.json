@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "d3cf4b802decf74b",
+    "type": "split",
+    "children": [
+      {
+        "id": "30b8d28093ac9df0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e305202eed536543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HiC-Pro on SLURM/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1f9070d1a309204",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad6f50714ef10011",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22859855e87e1c05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fd66eb1a142e72f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc9e9e3df32f84f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "248195761e383939",
+    "type": "split",
+    "children": [
+      {
+        "id": "5af3c106d7112e76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "987700dff6f6088e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HiC-Pro on SLURM/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf4ed50fdfb56325",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HiC-Pro on SLURM/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20eb2e5b3d6b96c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a48188a326d0c454",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HiC-Pro on SLURM/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e305202eed536543",
+  "lastOpenFiles": [
+    "README.md",
+    "HiC-Pro on SLURM/README.md",
+    "Untitled.md"
+  ]
+}
