@@ -177,12 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22859855e87e1c05",
+  "active": "00500a85fa217ceb",
   "lastOpenFiles": [
-    "Single-cell RNA-seq/Markdown tutorials",
     "README.md",
-    "Single-cell RNA-seq/README.md",
     "HiC-Pro on SLURM/README.md",
+    "Single-cell RNA-seq/README.md",
+    "Single-cell RNA-seq/Markdown tutorials",
     "Single-cell RNA-seq",
     "HiC-Pro on SLURM/scripts/sra-geo.sh",
     "HiC-Pro on SLURM/scripts/run-hicpro.sh",

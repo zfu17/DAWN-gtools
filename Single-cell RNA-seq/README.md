@@ -1,10 +1,11 @@
-# Background and Introduction
+# Single-cell RNA-seq Data Analysis
+## Background and Introduction
 
-# Initial processing of the raw sequencing data
+## Initial processing of the raw sequencing data
 
-# Creating Seurat objects
+## Creating Seurat objects
 
-# Popular analyses with Seurat
+## Popular analyses with Seurat
 
-# Other analyses
+## Other analyses
 
