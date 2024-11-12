@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "30b8d28093ac9df0",
+        "id": "960c08db6cb501fe",
         "type": "tabs",
         "children": [
           {
-            "id": "e305202eed536543",
+            "id": "df6b0a068649dc27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HiC-Pro on SLURM/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "00500a85fa217ceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HiC-Pro on SLURM/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HiC-Pro on SLURM/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -127,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HiC-Pro on SLURM/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -153,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HiC-Pro on SLURM/README.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           }
         ]
@@ -177,11 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00500a85fa217ceb",
+  "active": "22859855e87e1c05",
   "lastOpenFiles": [
+    "HiC-Pro on SLURM/README.md",
     "README.md",
     "Single-cell RNA-seq/README.md",
-    "HiC-Pro on SLURM/README.md",
     "Single-cell RNA-seq/Markdown tutorials",
     "Single-cell RNA-seq",
     "HiC-Pro on SLURM/scripts/sra-geo.sh",
