@@ -1,5 +1,6 @@
 # HiC-Pro
-We refer to this amazing software https://github.com/nservant/HiC-Pro that processes Hi-C data from raw fastq files to count matrices. The current version in this demo is 3.1.0.
+We refer to this amazing software https://github.com/nservant/HiC-Pro that processes Hi-C data from raw fastq files to count matrices. The current version in this demo is 3.1.0. 
+___
 ## Installation
 I found the easiest way to run Hi-C-Pro on cluster (even locally) is to 
 1. Create a conda environment and activate it

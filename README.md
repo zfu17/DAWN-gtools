@@ -2,3 +2,4 @@
 A repository of research notes, scripts, resources, and pipelines for genomic data analysis.
 
 1. [HiC-Pro on Cluster](HiC-Pro%20on%20SLURM/README.md)
+2. [Conda environment and package installation](Conda%20environment%20and%20package%20installation)
